@@ -1,0 +1,58 @@
+<!-- prettier-ignore-start -->
+# Remote Product Jobs — 2026
+
+<sub><small>Last updated: Jul 31, 2026 at 15:40 UTC</small></sub>
+
+Daily remote product jobs curated by Jobs in Product.
+Updated daily by [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs).
+
+Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs) for the full live board, filtering, and employer details.
+
+## Current Openings
+
+| Company | Position | Location | Workplace | Type | Date |
+| ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Affirm](https://jobsinproduct.com/jobs/affirm-director-product-management-shopping-and-offers-2d9fe5e6?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Director, Product Management (Shopping & Offers)](https://jobsinproduct.com/jobs/affirm-director-product-management-shopping-and-offers-2d9fe5e6?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Remote US | Remote | Full Time | Jun 26 |
+| **[Affirm](https://jobsinproduct.com/jobs/affirm-staff-product-manager-app-platform-and-experience-3a22b341?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Staff Product Manager, App Platform & Experience](https://jobsinproduct.com/jobs/affirm-staff-product-manager-app-platform-and-experience-3a22b341?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Remote US | Remote | Full Time | Jun 18 |
+| **[Stripe](https://jobsinproduct.com/jobs/stripe-staff-product-manager-cards-monetization-c2aae993?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Staff Product Manager, Cards Monetization](https://jobsinproduct.com/jobs/stripe-staff-product-manager-cards-monetization-c2aae993?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Seattle, San Francisco, New York, US - Remote | Remote | Full Time | Jun 3 |
+| **[Grafana Labs](https://jobsinproduct.com/jobs/grafana-labs-senior-product-manager-infrastructure-observability-us-remote-ad951df5?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Senior Product Manager, Infrastructure Observability \| US \| Remote](https://jobsinproduct.com/jobs/grafana-labs-senior-product-manager-infrastructure-observability-us-remote-ad951df5?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | United States (Remote) | Remote | Full Time | May 28 |
+| **[Grafana Labs](https://jobsinproduct.com/jobs/grafana-labs-senior-product-manager-infrastructure-observability-uk-remote-8ee2aef9?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Senior Product Manager, Infrastructure Observability \| UK \| Remote](https://jobsinproduct.com/jobs/grafana-labs-senior-product-manager-infrastructure-observability-uk-remote-8ee2aef9?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | United Kingdom (Remote) | Remote | Full Time | May 28 |
+| **[Grafana Labs](https://jobsinproduct.com/jobs/grafana-labs-senior-product-manager-infrastructure-observability-sweden-remote-5cf9d75e?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Senior Product Manager, Infrastructure Observability \| Sweden \| Remote](https://jobsinproduct.com/jobs/grafana-labs-senior-product-manager-infrastructure-observability-sweden-remote-5cf9d75e?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Sweden (Remote) | Remote | Full Time | May 28 |
+| **[Grafana Labs](https://jobsinproduct.com/jobs/grafana-labs-senior-product-manager-infrastructure-observability-spain-remote-3b51b31c?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Senior Product Manager, Infrastructure Observability \| Spain \| Remote](https://jobsinproduct.com/jobs/grafana-labs-senior-product-manager-infrastructure-observability-spain-remote-3b51b31c?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Spain (Remote) | Remote | Full Time | May 28 |
+| **[Grafana Labs](https://jobsinproduct.com/jobs/grafana-labs-senior-product-manager-infrastructure-observability-canada-remote-5e0d16d5?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Senior Product Manager, Infrastructure Observability \| Canada \| Remote](https://jobsinproduct.com/jobs/grafana-labs-senior-product-manager-infrastructure-observability-canada-remote-5e0d16d5?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Canada (Remote) | Remote | Full Time | May 28 |
+| **[Stripe](https://jobsinproduct.com/jobs/stripe-product-manager-growth-ai-outreach-motion-add31407?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Product Manager, Growth AI Outreach Motion](https://jobsinproduct.com/jobs/stripe-product-manager-growth-ai-outreach-motion-add31407?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Toronto, Remote- Canada | Remote | Full Time | May 19 |
+| **[Reddit](https://jobsinproduct.com/jobs/reddit-staff-product-designer-growth-88fc5a39?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Staff Product Designer, Growth](https://jobsinproduct.com/jobs/reddit-staff-product-designer-growth-88fc5a39?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Remote - United States | Remote | Full Time | Mar 10 |
+| **[Affirm](https://jobsinproduct.com/jobs/affirm-senior-product-manager-shopping-experiences-c0acdaef?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Senior Product Manager, Shopping Experiences](https://jobsinproduct.com/jobs/affirm-senior-product-manager-shopping-experiences-c0acdaef?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Remote US | Remote | Full Time | Feb 11 |
+
+---
+
+**Current Stats:** 11 jobs | 100% remote | 4 companies | 0 salary ranges listed
+_Note: Stats are based on the current generated GitHub snapshot._
+
+## Archive
+
+- [2026-07-31 archive](archive/2026-07-31.md)
+
+## About This Repository
+
+This repository tracks **Remote Product Jobs** from Jobs in Product. The README is regenerated daily so GitHub can act as a fresh, indexable distribution surface for job seekers searching inside this niche.
+
+## For Job Seekers
+
+- Star this repository to see updates in your GitHub feed.
+- Check the archive for recent hiring trends.
+- Use [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs) when you want the complete searchable job board.
+
+## For Employers
+
+Reach candidates already searching for **Remote Product Jobs** by posting on [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs).
+
+## Related Job Repositories
+
+- [Product Manager Jobs](https://github.com/jobsinproduct/Product-Manager-Jobs)
+- [Product Design Jobs](https://github.com/jobsinproduct/Product-Design-Jobs)
+
+---
+
+**Made by [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)**
+<!-- prettier-ignore-end -->
