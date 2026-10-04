@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Product Jobs — 2026
 
-<sub><small>Last updated: Oct 3, 2026 at 16:14 UTC</small></sub>
+<sub><small>Last updated: Oct 4, 2026 at 16:51 UTC</small></sub>
 
 Daily remote product jobs curated by Jobs in Product.
 Updated daily by [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs).
@@ -31,20 +31,15 @@ Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=r
 | **[Snicsolutions](https://jobsinproduct.com/jobs/snicsolutions-senior-product-manager-6a455fe2?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Senior Product Manager](https://jobsinproduct.com/jobs/snicsolutions-senior-product-manager-6a455fe2?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Irving, Texas, 75062, United States | Remote | Contract | Aug 10 |
 | **[Veeva](https://jobsinproduct.com/jobs/veeva-senior-product-manager-edc-f87fafeb?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Senior Product Manager - EDC](https://jobsinproduct.com/jobs/veeva-senior-product-manager-edc-f87fafeb?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Massachusetts - Boston | Remote | Full Time | Aug 10 |
 | **[Claravine](https://jobsinproduct.com/jobs/claravine-senior-product-manager-eb122dcd?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Senior Product Manager](https://jobsinproduct.com/jobs/claravine-senior-product-manager-eb122dcd?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Location not listed | Remote | Full Time | Aug 10 |
-| **[Canals](https://jobsinproduct.com/jobs/canals-senior-product-manager-1d74195f?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Senior Product Manager](https://jobsinproduct.com/jobs/canals-senior-product-manager-1d74195f?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Denver | Remote | Full Time | Aug 10 |
-| **[Confluent](https://jobsinproduct.com/jobs/confluent-senior-product-manager-cluster-linking-68571774?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Senior Product Manager, Cluster Linking](https://jobsinproduct.com/jobs/confluent-senior-product-manager-cluster-linking-68571774?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Remote, Ontario, Canada | Remote | Full Time | Aug 10 |
-| **[Tremendous](https://jobsinproduct.com/jobs/tremendous-senior-product-manager-prepaid-cards-a892ee5e?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Senior Product Manager - Prepaid Cards](https://jobsinproduct.com/jobs/tremendous-senior-product-manager-prepaid-cards-a892ee5e?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | United States | Remote | Full Time | Aug 10 |
-| **[Affirm](https://jobsinproduct.com/jobs/affirm-senior-product-manager-credit-and-pricing-fccfebfa?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Senior Product Manager, Credit & Pricing](https://jobsinproduct.com/jobs/affirm-senior-product-manager-credit-and-pricing-fccfebfa?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Remote Canada | Remote | Full Time | Aug 10 |
-| **[Arkestro](https://jobsinproduct.com/jobs/arkestro-senior-product-manager-9b27d9ae?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Senior Product Manager](https://jobsinproduct.com/jobs/arkestro-senior-product-manager-9b27d9ae?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | United States | Remote | Full Time | Aug 10 |
 
 ---
 
-**Current Stats:** 24 jobs | 100% remote | 15 companies | 0 salary ranges listed
+**Current Stats:** 19 jobs | 100% remote | 11 companies | 0 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-03 archive](archive/2026-10-03.md)
+- [2026-10-04 archive](archive/2026-10-04.md)
 
 ## About This Repository
 
