@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Product Jobs — 2026
 
-<sub><small>Last updated: Oct 4, 2026 at 16:51 UTC</small></sub>
+<sub><small>Last updated: Oct 6, 2026 at 18:26 UTC</small></sub>
 
 Daily remote product jobs curated by Jobs in Product.
 Updated daily by [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs).
@@ -19,27 +19,15 @@ Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=r
 | **[Reddit](https://jobsinproduct.com/jobs/reddit-staff-product-manager-ads-formats-76e8e902?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Staff Product Manager, Ads Formats](https://jobsinproduct.com/jobs/reddit-staff-product-manager-ads-formats-76e8e902?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Remote - United States | Remote | Full Time | Aug 31 |
 | **[Affirm](https://jobsinproduct.com/jobs/affirm-senior-product-manager-checkout-1d9cd1b4?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Senior Product Manager, Checkout](https://jobsinproduct.com/jobs/affirm-senior-product-manager-checkout-1d9cd1b4?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Remote Canada | Remote | Full Time | Aug 26 |
 | **[Affirm](https://jobsinproduct.com/jobs/affirm-senior-product-manager-checkout-ab8a110a?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Senior Product Manager, Checkout](https://jobsinproduct.com/jobs/affirm-senior-product-manager-checkout-ab8a110a?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Remote US | Remote | Full Time | Aug 26 |
-| **[Getfiber](https://jobsinproduct.com/jobs/getfiber-product-manager-b34eb8f0?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Product Manager](https://jobsinproduct.com/jobs/getfiber-product-manager-b34eb8f0?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | San Francisco (Remote) | Remote | Full Time | Aug 10 |
-| **[Unknown Company](https://jobsinproduct.com/jobs/unknown-company-product-manager-d0997a09?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Product Manager](https://jobsinproduct.com/jobs/unknown-company-product-manager-d0997a09?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | McLean, VA, US, McLean, VA | Remote | Full Time | Aug 10 |
-| **[Vultr](https://jobsinproduct.com/jobs/vultr-principal-technical-product-manager-stratgic-accounts-a43addb4?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Principal Technical Product Manager, Stratgic Accounts](https://jobsinproduct.com/jobs/vultr-principal-technical-product-manager-stratgic-accounts-a43addb4?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Remote - United States | Remote | Full Time | Aug 10 |
-| **[Unknown Company](https://jobsinproduct.com/jobs/unknown-company-product-manager-a4437345?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Product Manager](https://jobsinproduct.com/jobs/unknown-company-product-manager-a4437345?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Teaneck, NJ, US, Teaneck, NJ | Remote | Full Time | Aug 10 |
-| **[Veeva](https://jobsinproduct.com/jobs/veeva-senior-product-manager-vault-platform-access-control-920a2f4f?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Senior Product Manager - Vault Platform Access Control](https://jobsinproduct.com/jobs/veeva-senior-product-manager-vault-platform-access-control-920a2f4f?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Massachusetts - Boston | Remote | Full Time | Aug 10 |
-| **[Veeva](https://jobsinproduct.com/jobs/veeva-senior-product-manager-vault-crm-suite-a506100f?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Senior Product Manager - Vault CRM Suite](https://jobsinproduct.com/jobs/veeva-senior-product-manager-vault-crm-suite-a506100f?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Massachusetts - Boston | Remote | Full Time | Aug 10 |
-| **[Chess](https://jobsinproduct.com/jobs/chess-senior-product-manager-262b7c05?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Senior Product Manager](https://jobsinproduct.com/jobs/chess-senior-product-manager-262b7c05?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Remote, United States | Remote | Full Time | Aug 10 |
-| **[Rightway](https://jobsinproduct.com/jobs/rightway-senior-product-manager-pbm-member-experience-a4b7edd0?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Senior Product Manager, PBM Member Experience](https://jobsinproduct.com/jobs/rightway-senior-product-manager-pbm-member-experience-a4b7edd0?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | New York, NY or Remote | Remote | Full Time | Aug 10 |
-| **[Checkr](https://jobsinproduct.com/jobs/checkr-senior-staff-product-manager-fraud-hiring-solutions-f1a1b4f6?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Senior Staff Product Manager, Fraud Hiring Solutions](https://jobsinproduct.com/jobs/checkr-senior-staff-product-manager-fraud-hiring-solutions-f1a1b4f6?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Denver, Colorado, United States; San Francisco, California, United States | Remote | Full Time | Aug 10 |
-| **[Snicsolutions](https://jobsinproduct.com/jobs/snicsolutions-senior-product-manager-6a455fe2?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Senior Product Manager](https://jobsinproduct.com/jobs/snicsolutions-senior-product-manager-6a455fe2?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Irving, Texas, 75062, United States | Remote | Contract | Aug 10 |
-| **[Veeva](https://jobsinproduct.com/jobs/veeva-senior-product-manager-edc-f87fafeb?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Senior Product Manager - EDC](https://jobsinproduct.com/jobs/veeva-senior-product-manager-edc-f87fafeb?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Massachusetts - Boston | Remote | Full Time | Aug 10 |
-| **[Claravine](https://jobsinproduct.com/jobs/claravine-senior-product-manager-eb122dcd?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Senior Product Manager](https://jobsinproduct.com/jobs/claravine-senior-product-manager-eb122dcd?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Location not listed | Remote | Full Time | Aug 10 |
 
 ---
 
-**Current Stats:** 19 jobs | 100% remote | 11 companies | 0 salary ranges listed
+**Current Stats:** 7 jobs | 100% remote | 2 companies | 0 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-04 archive](archive/2026-10-04.md)
+- [2026-10-06 archive](archive/2026-10-06.md)
 
 ## About This Repository
 
