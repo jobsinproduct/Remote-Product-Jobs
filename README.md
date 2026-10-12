@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Product Jobs — 2026
 
-<sub><small>Last updated: Oct 7, 2026 at 18:56 UTC</small></sub>
+<sub><small>Last updated: Oct 12, 2026 at 21:16 UTC</small></sub>
 
 Daily remote product jobs curated by Jobs in Product.
 Updated daily by [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs).
@@ -12,6 +12,9 @@ Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=r
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Affirm](https://jobsinproduct.com/jobs/affirm-senior-product-manager-consumer-payments-0bcfe0d8?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Senior Product Manager, Consumer Payments](https://jobsinproduct.com/jobs/affirm-senior-product-manager-consumer-payments-0bcfe0d8?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Remote Canada | Remote | Full Time | Oct 8 |
+| **[Affirm](https://jobsinproduct.com/jobs/affirm-senior-product-manager-consumer-payments-a6534aac?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Senior Product Manager, Consumer Payments](https://jobsinproduct.com/jobs/affirm-senior-product-manager-consumer-payments-a6534aac?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Remote US | Remote | Full Time | Oct 8 |
+| **[Reddit](https://jobsinproduct.com/jobs/reddit-staff-product-manager-community-builders-fb6d4d75?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Staff Product Manager, Community Builders](https://jobsinproduct.com/jobs/reddit-staff-product-manager-community-builders-fb6d4d75?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Remote - United States | Remote | Full Time | Oct 7 |
 | **[Affirm](https://jobsinproduct.com/jobs/affirm-staff-product-manager-credit-and-pricing-d9ec9275?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Staff Product Manager, Credit and Pricing](https://jobsinproduct.com/jobs/affirm-staff-product-manager-credit-and-pricing-d9ec9275?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Remote Canada | Remote | Full Time | Oct 1 |
 | **[Affirm](https://jobsinproduct.com/jobs/affirm-staff-product-manager-credit-and-pricing-b095b707?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Staff Product Manager, Credit & Pricing](https://jobsinproduct.com/jobs/affirm-staff-product-manager-credit-and-pricing-b095b707?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Remote US | Remote | Full Time | Oct 1 |
 | **[Affirm](https://jobsinproduct.com/jobs/affirm-staff-product-manager-comms-platform-b7d41200?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Staff Product Manager, Comms Platform](https://jobsinproduct.com/jobs/affirm-staff-product-manager-comms-platform-b7d41200?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Remote UK | Remote | Full Time | Oct 1 |
@@ -22,12 +25,12 @@ Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=r
 
 ---
 
-**Current Stats:** 7 jobs | 100% remote | 2 companies | 0 salary ranges listed
+**Current Stats:** 10 jobs | 100% remote | 2 companies | 0 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-07 archive](archive/2026-10-07.md)
+- [2026-10-12 archive](archive/2026-10-12.md)
 
 ## About This Repository
 
