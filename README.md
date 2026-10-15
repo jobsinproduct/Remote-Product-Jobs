@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Product Jobs — 2026
 
-<sub><small>Last updated: Oct 13, 2026 at 19:14 UTC</small></sub>
+<sub><small>Last updated: Oct 15, 2026 at 16:56 UTC</small></sub>
 
 Daily remote product jobs curated by Jobs in Product.
 Updated daily by [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs).
@@ -12,6 +12,7 @@ Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=r
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Affirm](https://jobsinproduct.com/jobs/affirm-senior-product-manager-8cd81a6a?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Senior Product Manager](https://jobsinproduct.com/jobs/affirm-senior-product-manager-8cd81a6a?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Remote UK | Remote | Full Time | Oct 13 |
 | **[Affirm](https://jobsinproduct.com/jobs/affirm-senior-product-manager-consumer-payments-0bcfe0d8?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Senior Product Manager, Consumer Payments](https://jobsinproduct.com/jobs/affirm-senior-product-manager-consumer-payments-0bcfe0d8?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Remote Canada | Remote | Full Time | Oct 8 |
 | **[Affirm](https://jobsinproduct.com/jobs/affirm-senior-product-manager-consumer-payments-a6534aac?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Senior Product Manager, Consumer Payments](https://jobsinproduct.com/jobs/affirm-senior-product-manager-consumer-payments-a6534aac?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Remote US | Remote | Full Time | Oct 8 |
 | **[Reddit](https://jobsinproduct.com/jobs/reddit-staff-product-manager-community-builders-fb6d4d75?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Staff Product Manager, Community Builders](https://jobsinproduct.com/jobs/reddit-staff-product-manager-community-builders-fb6d4d75?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Remote - United States | Remote | Full Time | Oct 7 |
@@ -25,12 +26,12 @@ Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=r
 
 ---
 
-**Current Stats:** 10 jobs | 100% remote | 2 companies | 0 salary ranges listed
+**Current Stats:** 11 jobs | 100% remote | 2 companies | 0 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-13 archive](archive/2026-10-13.md)
+- [2026-10-15 archive](archive/2026-10-15.md)
 
 ## About This Repository
 
