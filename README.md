@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Product Jobs — 2026
 
-<sub><small>Last updated: Oct 29, 2026 at 18:43 UTC</small></sub>
+<sub><small>Last updated: Oct 30, 2026 at 17:59 UTC</small></sub>
 
 Daily remote product jobs curated by Jobs in Product.
 Updated daily by [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs).
@@ -12,6 +12,7 @@ Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=r
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Affirm](https://jobsinproduct.com/jobs/affirm-group-product-manager-29b25b4b?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Group Product Manager](https://jobsinproduct.com/jobs/affirm-group-product-manager-29b25b4b?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Remote Canada | Remote | Full Time | Oct 23 |
 | **[Affirm](https://jobsinproduct.com/jobs/affirm-group-product-manager-5bceaa81?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Group Product Manager](https://jobsinproduct.com/jobs/affirm-group-product-manager-5bceaa81?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Remote US | Remote | Full Time | Oct 23 |
 | **[Reddit](https://jobsinproduct.com/jobs/reddit-staff-product-manager-youth-355ce99c?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Staff Product Manager, Youth](https://jobsinproduct.com/jobs/reddit-staff-product-manager-youth-355ce99c?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Remote - United States | Remote | Full Time | Oct 20 |
 | **[Affirm](https://jobsinproduct.com/jobs/affirm-senior-product-manager-8cd81a6a?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Senior Product Manager](https://jobsinproduct.com/jobs/affirm-senior-product-manager-8cd81a6a?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Remote UK | Remote | Full Time | Oct 13 |
@@ -25,12 +26,12 @@ Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=r
 
 ---
 
-**Current Stats:** 10 jobs | 100% remote | 2 companies | 2 salary ranges listed
+**Current Stats:** 11 jobs | 100% remote | 2 companies | 3 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-29 archive](archive/2026-10-29.md)
+- [2026-10-30 archive](archive/2026-10-30.md)
 
 ## About This Repository
 
