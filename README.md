@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Product Jobs — 2026
 
-<sub><small>Last updated: Nov 8, 2026 at 17:55 UTC</small></sub>
+<sub><small>Last updated: Nov 9, 2026 at 22:17 UTC</small></sub>
 
 Daily remote product jobs curated by Jobs in Product.
 Updated daily by [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs).
@@ -22,16 +22,15 @@ Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=r
 | **[Affirm](https://jobsinproduct.com/jobs/affirm-staff-product-manager-credit-and-pricing-d9ec9275?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Staff Product Manager, Credit and Pricing](https://jobsinproduct.com/jobs/affirm-staff-product-manager-credit-and-pricing-d9ec9275?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Remote Canada | Remote | Full Time | Oct 1 |
 | **[Affirm](https://jobsinproduct.com/jobs/affirm-staff-product-manager-credit-and-pricing-b095b707?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Staff Product Manager, Credit & Pricing](https://jobsinproduct.com/jobs/affirm-staff-product-manager-credit-and-pricing-b095b707?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Remote US | Remote | Full Time | Oct 1 |
 | **[Affirm](https://jobsinproduct.com/jobs/affirm-staff-product-manager-comms-platform-b7d41200?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Staff Product Manager, Comms Platform](https://jobsinproduct.com/jobs/affirm-staff-product-manager-comms-platform-b7d41200?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Remote UK | Remote | Full Time | Oct 1 |
-| **[Affirm](https://jobsinproduct.com/jobs/affirm-senior-director-product-management-financial-platforms-f99f5ada?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Senior Director, Product Management (Financial Platforms)](https://jobsinproduct.com/jobs/affirm-senior-director-product-management-financial-platforms-f99f5ada?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Remote US | Remote | Full Time | Sep 23 |
 
 ---
 
-**Current Stats:** 11 jobs | 100% remote | 2 companies | 3 salary ranges listed
+**Current Stats:** 10 jobs | 100% remote | 2 companies | 3 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-08 archive](archive/2026-11-08.md)
+- [2026-11-09 archive](archive/2026-11-09.md)
 
 ## About This Repository
 
