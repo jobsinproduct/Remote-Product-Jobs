@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Product Jobs — 2026
 
-<sub><small>Last updated: Nov 12, 2026 at 19:53 UTC</small></sub>
+<sub><small>Last updated: Nov 13, 2026 at 19:38 UTC</small></sub>
 
 Daily remote product jobs curated by Jobs in Product.
 Updated daily by [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs).
@@ -12,6 +12,7 @@ Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=r
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Reddit](https://jobsinproduct.com/jobs/reddit-product-manager-ecosystem-relevance-30b2e636?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Product Manager, Ecosystem Relevance](https://jobsinproduct.com/jobs/reddit-product-manager-ecosystem-relevance-30b2e636?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Remote - United States | Remote | Full Time | Nov 12 |
 | **[Affirm](https://jobsinproduct.com/jobs/affirm-group-product-manager-29b25b4b?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Group Product Manager](https://jobsinproduct.com/jobs/affirm-group-product-manager-29b25b4b?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Remote Canada | Remote | Full Time | Oct 23 |
 | **[Affirm](https://jobsinproduct.com/jobs/affirm-group-product-manager-5bceaa81?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Group Product Manager](https://jobsinproduct.com/jobs/affirm-group-product-manager-5bceaa81?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Remote US | Remote | Full Time | Oct 23 |
 | **[Reddit](https://jobsinproduct.com/jobs/reddit-staff-product-manager-youth-355ce99c?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Staff Product Manager, Youth](https://jobsinproduct.com/jobs/reddit-staff-product-manager-youth-355ce99c?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Remote - United States | Remote | Full Time | Oct 20 |
@@ -25,12 +26,12 @@ Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=r
 
 ---
 
-**Current Stats:** 10 jobs | 100% remote | 2 companies | 3 salary ranges listed
+**Current Stats:** 11 jobs | 100% remote | 2 companies | 3 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-12 archive](archive/2026-11-12.md)
+- [2026-11-13 archive](archive/2026-11-13.md)
 
 ## About This Repository
 
