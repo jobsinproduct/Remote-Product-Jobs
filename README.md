@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Product Jobs — 2026
 
-<sub><small>Last updated: Nov 16, 2026 at 21:58 UTC</small></sub>
+<sub><small>Last updated: Nov 18, 2026 at 20:27 UTC</small></sub>
 
 Daily remote product jobs curated by Jobs in Product.
 Updated daily by [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs).
@@ -12,6 +12,8 @@ Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=r
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Affirm](https://jobsinproduct.com/jobs/affirm-it-product-manager-a8eb752b?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[IT Product Manager](https://jobsinproduct.com/jobs/affirm-it-product-manager-a8eb752b?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Remote Canada | Remote | Full Time | Nov 17 |
+| **[Affirm](https://jobsinproduct.com/jobs/affirm-it-product-manager-b3899c8b?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[IT Product Manager](https://jobsinproduct.com/jobs/affirm-it-product-manager-b3899c8b?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Remote US | Remote | Full Time | Nov 17 |
 | **[Reddit](https://jobsinproduct.com/jobs/reddit-product-manager-ecosystem-relevance-30b2e636?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Product Manager, Ecosystem Relevance](https://jobsinproduct.com/jobs/reddit-product-manager-ecosystem-relevance-30b2e636?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Remote - United States | Remote | Full Time | Nov 12 |
 | **[Affirm](https://jobsinproduct.com/jobs/affirm-group-product-manager-29b25b4b?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Group Product Manager](https://jobsinproduct.com/jobs/affirm-group-product-manager-29b25b4b?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Remote Canada | Remote | Full Time | Oct 23 |
 | **[Affirm](https://jobsinproduct.com/jobs/affirm-group-product-manager-5bceaa81?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | **[Group Product Manager](https://jobsinproduct.com/jobs/affirm-group-product-manager-5bceaa81?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs)** | Remote US | Remote | Full Time | Oct 23 |
@@ -26,12 +28,12 @@ Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=r
 
 ---
 
-**Current Stats:** 11 jobs | 100% remote | 2 companies | 3 salary ranges listed
+**Current Stats:** 13 jobs | 100% remote | 2 companies | 3 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-16 archive](archive/2026-11-16.md)
+- [2026-11-18 archive](archive/2026-11-18.md)
 
 ## About This Repository
 
