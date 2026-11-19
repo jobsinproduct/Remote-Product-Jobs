@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Product Jobs — 2026
 
-<sub><small>Last updated: Nov 18, 2026 at 20:27 UTC</small></sub>
+<sub><small>Last updated: Nov 19, 2026 at 20:30 UTC</small></sub>
 
 Daily remote product jobs curated by Jobs in Product.
 Updated daily by [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-jobs).
@@ -33,7 +33,7 @@ _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-18 archive](archive/2026-11-18.md)
+- [2026-11-19 archive](archive/2026-11-19.md)
 
 ## About This Repository
 
